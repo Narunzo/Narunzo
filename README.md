@@ -1,11 +1,7 @@
-- Hi, I’m Narunzo!
-- I like like to script on the Roblox gaming platform.
-- I’m currently learning Javascript for my Discord bot and Know a lot of Luau by Roblox.
-- I’m looking for collaborators on my Roblox games/projects.
-- How to reach me:
-- Add a discussion on my main repository.
-- Send a friends request to Narunzo#0001 on Discord.
-
+- I’m Narunzo
+- I use to do a lot of roblox scripting.
+Now I’m just working on a Discord bot. 
+If you want to talk to me you can send me a friends request on Discord my username is: Narunzo #0001
 <!---
 Narunzo/Narunzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
